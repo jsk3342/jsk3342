@@ -1,4 +1,6 @@
 ### <div align="center">안녕하세요. 프론트 엔드 개발자 김지수 입니다.</div>  
+<br/>  
+
   
 
 - 먼저 성장하고 배움을 공유하는것에 관심이 많습니다. 유튜브를 통해 소통하고 있습니다.  
@@ -83,5 +85,3 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
